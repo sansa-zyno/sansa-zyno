@@ -1,12 +1,10 @@
-### Hey there, I'm  Waqad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 3-year track record of excellence in Flutter (Android & iOS) development. 
+### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 3-year track record of excellence in Flutter (Android & iOS) development. 
 
-Throughout my career, I have spearheaded approximately 10 projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their Apple App Store and Google Play Store links, in my extensive portfolio.
+In the most part of my career, I have worked as part of a team to complete several projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their Apple App Store and Google Play Store links, in my extensive portfolio.
 
 #### Education & Achievements: <br>
-👨‍💻 BS. Computer Science <br>
-🎓 Comsats University Islamabad <br>
-🏅 Campus level Gold Medalist <br>
-🥈 Institute level Silver Medalist <br>
+👨‍💻 BS. Computer Engineering <br>
+🎓 Olabisi Onabanjo University <br>
 
 
 #### Some things I have extensive experience with: 
@@ -14,14 +12,13 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
    ✨ Flutter UI/UX <br>
    ✨ Flutter Backend with Firebase <br>
    ✨ Flutter RESTful API Integration <br>
-   ✨ Flutter with PHP Laravel backend <br>
    ✨ Firebase Cloud Functions using NodeJS <br>
    ✨ Firebase Cloud Messaging using Cloud Functions <br>
    ✨ Android & iOS development with Native integrations <br>
-   ✨ State Management: Provider & GetX <br>
+   ✨ State Management: Bloc, Provider & GetX <br>
    ✨ Version Control System: Git, GitHub <br>
-   ✨ Deployment on Google Play Store and Apple App Store <br>
-   ✨ Payment Methods: Stripe, RevenueCat (In-app purchases), and Windcave <br>
+   ✨ Deployment on Google Play Store<br>
+   ✨ Payment Methods: Paystack, Stripe and RevenueCat(In-app purchases)<br>
 
 <br>
 <div align="center">
@@ -29,17 +26,12 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />     
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white" />    
-<img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />    
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />   
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />    
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> --> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 <be>
@@ -48,12 +40,9 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 
 #### Personal stuff:
 
-- 🙋‍♂️ CEO at [Tosty Developers][tostydevs]
-- 👉 Leading a group of developers
-- 💻 The tech I'm interested in: Flutter/ML/Face Recognition etc.
-- ✍ Technical writer & Flutter Developer at [Fiverr][fiverr]
-- ✨ I'm learning Flutter, Firebase, Automation etc.
-- 🎮 Call of Duty: Mobile player
+- 💻 The tech I'm interested in: React/Flutter/Nodejs etc.
+- ✍ Flutter Developer at [Fiverr][fiverr]
+- ✨ I'm learning Flutter, Firebase, Nodejs etc.
 <!-- - 📄 Live [Portfolio][profile] -->
 <!-- - 🎨 [Dribbble][dribbble] profile -->
 
@@ -66,34 +55,34 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 <br>
 <br>
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/waqad_arshad/">
+<a href="https://www.twitter.com/zynogino/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/waqad_arshad/">
+<a href="https://www.instagram.com/sansa_zyno/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/waqad-arshad">
+<a href="https://www.linkedin.com/in/hassan-sansaliu">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wa.me/message/3IVXH7LJFEPTH1">
+<!--<a href="https://wa.me/message/3IVXH7LJFEPTH1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+</a>-->
 
-<a href="https://www.fiverr.com/waqadarshad">
+<a href="https://www.fiverr.com/zynogino">
     <img src="https://img.shields.io/badge/Fiverr-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/waqadarshad">
+<a href="https://www.upwork.com/freelancers/zynogenius">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/waqad.arshad.2/">
+<a href="https://www.facebook.com/sansaliu.hassanadebola/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/10415632/waqad-arshad">
+<a href="https://stackoverflow.com/users/11885003/zyno">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
@@ -139,18 +128,6 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 <br>
 <br>
 
-<summary>📝 My GitHub Stats</summary>
-<be>
-
-<!-- [![Waqad's github stats](https://github-readme-stats.vercel.app/api?username=waqadArshad&theme=gotham)](https://github.com/waqadArshad/github-readme-stats) -->
-
-<br />
-<div style="display: flex; align-items: center;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqadArshad&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=dracula" alt="Waqad's Github Stats"/>
-<!-- <p>&emsp;</p> -->
-    &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=waqadArshad&include_all_commits=true&count_private=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Waqad's GitHub Streaks" />
-</div>
 
 
 ## Client Projects And Apps on The Stores
