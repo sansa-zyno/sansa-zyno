@@ -1,6 +1,6 @@
 ### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 3-year track record of excellence in Flutter (Android & iOS) development. 
 
-In the most part of my career, I have worked as part of a team to complete several projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their Store links, in my extensive portfolio.
+In the most part of my career, I have worked as part of a team to complete several projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their store links, in my extensive portfolio.
 
 #### Education & Achievements: <br>
 👨‍💻 BS. Computer Engineering <br>
@@ -18,6 +18,7 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ State Management: Bloc, Provider & GetX <br>
    ✨ Version Control System: Git, GitHub <br>
    ✨ Deployment on Google Play Store<br>
+   ✨ Google Admob Integration<br>
    ✨ Payment Methods: Paystack, Stripe and RevenueCat(In-app purchases)<br>
 
 <br>
@@ -45,11 +46,11 @@ In the most part of my career, I have worked as part of a team to complete sever
 - ✨ I'm learning Flutter, Firebase, Nodejs etc.
 
 
-### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
+<!--### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
 <br>
 
 <div align="center">
-    <a href="https://www.buymeacoffee.com/waqadArshad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    <a href="https://www.buymeacoffee.com/waqadArshad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>-->
 <br>
 <br>
 <p align="center">Let's connect!</p>
@@ -61,7 +62,7 @@ In the most part of my career, I have worked as part of a team to complete sever
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/hassan-sansaliu">
+<a href="https://www.linkedin.com/in/hassan-sansaliu-102725180">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -72,7 +73,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 <a href="https://www.fiverr.com/zynogino">
     <img src="https://img.shields.io/badge/Fiverr-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/zynogenius">
+<a href="https://www.upwork.com/freelancers/hassansansaliu">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 
@@ -92,5 +93,5 @@ In the most part of my career, I have worked as part of a team to complete sever
 
 
 
-## Client Projects And Apps on The Stores
+<!--## Client Projects And Apps on The Stores-->
 
