@@ -46,11 +46,11 @@ In the most part of my career, I have worked as part of a team to complete sever
 - ✨ I'm learning Flutter, Firebase, Nodejs etc.
 
 
-<!--### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
+### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
 <br>
 
 <div align="center">
-    <a href="https://www.buymeacoffee.com/waqadArshad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>-->
+    <a href="https://www.buymeacoffee.com/zynogino" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <br>
 <br>
 <p align="center">Let's connect!</p>
