@@ -94,5 +94,132 @@ In the most part of my career, I have worked as part of a team to complete sever
 
 
 
-<!--## Client Projects And Apps on The Stores-->
+## Client Projects And Apps on The Stores
+<table>
+	<tbody width="100%">
+	<tr>
+		<th>Project</th>	
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/5.png" alt="Empowerment Food Network 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>Empowerment Food Network 📢📣🍕🍔🌭🥡📣📢!</h3>
+			<p>A food networking app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
+			<p>🗓 September 2022 - October 2022 (~ A month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.paultech.efn">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="EFN on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="EFN on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="https://empowermentfoodnetwork.com/">Website</a>
+			</div>
+		</td>
+	</tr>
+      
+	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>Antpay 📢📣🍕🍔🌭🥡📣📢!</h3>
+			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
+			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
+		</td>
+		<td>
+			<div>
+				<a href="">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Antpay on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Antpay on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="https://antpay.cool/">Website</a>
+			</div>
+		</td>
+	</tr>
+ 
+	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>PWAN Business Owners Chat App 📢📣🍕🍔🌭🥡📣📢!</h3>
+			<p>A chat app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
+			<p>🗓 October 2022 - November 2022 (~ A month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.pbo.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="PBO Chat App on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="PBO Chat App on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="https://pbonetwork.com/">Website</a>
+			</div>
+		</td>
+	</tr>
+ 
+	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ribo01.jpeg" alt="Realty Invest Network 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>Realty Invest Network 📢📣🍕🍔🌭🥡📣📢!</h3>
+			<p>A Real Estate Investment App. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
+			<p>🗓 November 2022 - December 2022 (~ A month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.realtyinvestnetwork.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="RIBO on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="RIBO on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="https://realtyinvest.ng/">Website</a>
+			</div>
+		</td>
+	</tr>
+
+ 	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 📢📣🍕🍔🌭🥡📣📢!" />
+			<h3>MyQabila 📢📣🍕🍔🌭🥡📣📢!</h3>
+			<p>An app that connects people with health challenges to vetted medical professionals. I single handedly completed the app</p>
+			<p>🗓 August 2021 - September 2021 (~ A month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.zynotech.myQabila">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="MyQabila on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="MyQabila on iOS App Store" />
+          </a>
+			</div>
+			<div>
+           🔗 <a href="http://myqabilaapp.com/">Website</a>
+			</div>
+		</td>
+	</tr>
+	</tbody>
+</table>
 
