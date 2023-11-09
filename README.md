@@ -123,9 +123,9 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://empowermentfoodnetwork.com/">Website</a>
 			</div>
 		</td>
-	</tr>
+	</tr>-->
       
-	<tr>
+	<!--<tr>
 		<td>
          <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 📢📣🍕🍔🌭🥡📣📢!" />
 			<h3>Antpay 📢📣🍕🍔🌭🥡📣📢!</h3>
