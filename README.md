@@ -172,7 +172,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ribo01.jpeg" alt="Realty Invest Network 📢📣🍕🍔🌭🥡📣📢!" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ribo.jpg" alt="Realty Invest Network 📢📣🍕🍔🌭🥡📣📢!" />
 			<h3>Realty Invest Network 📢📣🍕🍔🌭🥡📣📢!</h3>
 			<p>A Real Estate Investment App. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
 			<p>🗓 November 2022 - December 2022 (~ A month)</p>
