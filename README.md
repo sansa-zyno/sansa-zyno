@@ -98,7 +98,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 <table>
 	<tbody width="100%">
 	<tr>
-		<th>Project</th>	
+		<th>Projects</th>	
 		<th>Links</th>
 	</tr>
 	<tr>
