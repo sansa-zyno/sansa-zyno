@@ -103,7 +103,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="MaxCashMultiplier 💲#️⃣💳!" />
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="MaxCashMultiplier 💲#️⃣💳!" />
 			<h3>MaxCashMultiplier 💲#️⃣💳!</h3>
 			<p>MaxCashMultiplier is a digital marketplace that is set up to connect digital product creators with high performing affiliates in order for both parties to be 
                         able to reach more consumers, make more sales, and share more profits. </p>
@@ -127,7 +127,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance-trust.jpg" alt="ATFCL 💲#️⃣💳!" />
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance-trust.jpg" alt="ATFCL 💲#️⃣💳!" />
 			<h3>ATFCL 💲#️⃣💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 June 2023 - September 2023 (~ 3 months)</p>
@@ -150,7 +150,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲#️⃣💳!" />
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲#️⃣💳!" />
 			<h3>Antpay 💲#️⃣💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
@@ -173,7 +173,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
 			<h3>PWAN Business Owners Chat App 😉😊😜!</h3>
 			<p>A chat app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
 			<p>🗓 October 2022 - November 2022 (~ A month)</p>
@@ -196,7 +196,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
  	<tr>
 		<td>
-         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
 			<h3>MyQabila 💪🤝👩‍👩‍👦!</h3>
 			<p>An app that connects people with health challenges to vetted medical professionals. I single handedly completed the app</p>
 			<p>🗓 August 2021 - September 2021 (~ A month)</p>
