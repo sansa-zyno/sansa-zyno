@@ -102,27 +102,27 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<th>Links</th>
 	</tr>
 	<tr>
-		<td>
-         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/5.png" alt="Empowerment Food Network 🍟🍔🍚!" />
-			<h3>Empowerment Food Network 🍟🍔🍚!</h3>
-			<p>A food networking app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
-			<p>🗓 September 2022 - October 2022 (~ A month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.paultech.efn">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="EFN on Google Play" />
-            </a>
-			</div>
-			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="EFN on iOS App Store" />
-          </a>
-			</div>
-			<div>
-           🔗 <a href="https://empowermentfoodnetwork.com/">Website</a>
-			</div>
-		</td>
+	<td>
+        <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="Maxcash Multiplier 📢📣📣!" />
+	<h3>Maxcash Multiplier 📢📣📣!</h3>
+	<p>MaxCashMultiplier is a digital marketplace that is set up to connect digital product creators with high performing affiliates in order for both parties to be able to reach more consumers, make more sales, and share more profits. <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
+	<p>🗓 September 2023 - October 2023 (~ A month)</p>
+	</td>
+	<td>
+	<div>
+	<a href="https://play.google.com/store/apps/details?id=com.maxcashmultipliers.www">
+        <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="MaxCashMultipler on Google Play" />
+        </a>
+	</div>
+	<div>
+        <a href="">
+        <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="MaxCashMultiplier on iOS App Store" />
+        </a>
+	</div>
+	<div>
+        🔗 <a href="https://maxcashmultiplier.com/">Website</a>
+	</div>
+	</td>
 	</tr>
 	<tr>
 		<td>
@@ -170,29 +170,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 			</div>
 		</td>
 	</tr>
-	<tr>
-		<td>
-         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="Realty Invest Network 📢📣📣!" />
-			<h3>Realty Invest Network 📢📣📣!</h3>
-			<p>A Real Estate Investment App. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
-			<p>🗓 November 2022 - December 2022 (~ A month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.realtyinvestnetwork.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="RIBO on Google Play" />
-            </a>
-			</div>
-			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="RIBO on iOS App Store" />
-          </a>
-			</div>
-			<div>
-           🔗 <a href="https://realtyinvest.ng/">Website</a>
-			</div>
-		</td>
-	</tr>
+
  	<tr>
 		<td>
          <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
