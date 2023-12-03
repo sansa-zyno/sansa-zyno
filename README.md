@@ -127,7 +127,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="300px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance-trust.jpg" alt="ATFCL 💲#️⃣💳!" />
+         <img width="1024px" height="350px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance-trust.jpg" alt="ATFCL 💲#️⃣💳!" />
 			<h3>ATFCL 💲#️⃣💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 June 2023 - September 2023 (~ 3 months)</p>
