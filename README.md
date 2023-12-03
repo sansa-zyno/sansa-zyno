@@ -170,7 +170,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 			</div>
 		</td>
 	</tr>
-
  	<tr>
 		<td>
          <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
