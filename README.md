@@ -103,10 +103,9 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="MaxCashMultiplier 💲#️⃣💳!" />
-			<h3>MaxCashMultiplier 💲#️⃣💳!</h3>
-			<p>MaxCashMultiplier is a digital marketplace that is set up to connect digital product creators with high performing affiliates in order for both parties to be 
-                        able to reach more consumers, make more sales, and share more profits. </p>
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="MaxCashMultiplier 💲❎💲!" />
+			<h3>MaxCashMultiplier 💲❎💲!</h3>
+			<p>A digital marketplace. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 September 2023 - October 2023 (~ 1 month)</p>
 		</td>
 		<td>
@@ -129,7 +128,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance-trust.jpg" alt="ATFCL 💲#️⃣💳!" />
 			<h3>ATFCL 💲#️⃣💳!</h3>
-			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
+			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
 			<p>🗓 June 2023 - September 2023 (~ 3 months)</p>
 		</td>
 		<td>
@@ -150,8 +149,8 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲#️⃣💳!" />
-			<h3>Antpay 💲#️⃣💳!</h3>
+         <img width="1024px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
+			<h3>Antpay 💲😎💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
 		</td>
