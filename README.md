@@ -103,8 +103,48 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="MaxCashMultiplier 💲❎💲!" />
-			<h3>MaxCashMultiplier 💲❎💲!</h3>
+         <img width="800px" src="" alt="Catholic Pro" />
+			<h3>Catholic Pro </h3>
+			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>🗓 March 2024 - April 2024 (~ 1 month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.catholicpro1.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Catholic Pro on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Catholic Pro on iOS App Store" />
+          </a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+         <img width="800px" src="" alt="Recipes From Nigeria" />
+			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
+			<p>Recipes From Nigeria. I worked on this app as a Flutter Developer</p>
+			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.exolvemedia.naijarecipes">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Recipes From Nigeria on Google Play" />
+            </a>
+			</div>
+			<div>
+           <a href="">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Recipes From Nigeria on iOS App Store" />
+          </a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/maxcash3.jpg" alt="Max Cash Multiplier 💲❎💲!" />
+			<h3>Max Cash Multiplier 💲❎💲!</h3>
 			<p>A digital marketplace. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 September 2023 - October 2023 (~ 1 month)</p>
 		</td>
@@ -126,45 +166,12 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/assurance2.jpg" alt="ATFCL 💲#️⃣💳!" />
-			<h3>ATFCL 💲#️⃣💳!</h3>
-			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
-			<p>🗓 June 2023 - September 2023 (~ 3 months)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.atfcl.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="ATFCL on Google Play" />
-            </a>
-			</div>
-			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="ATFCL on iOS App Store" />
-          </a>
-			</div>
-			<div>
-           🔗 <a href="https://assurancetrust.com.ng/">Website</a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
          <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
 			<h3>Antpay 💲😎💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
 		</td>
 		<td>
-			<div>
-				<a href="">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Antpay on Google Play" />
-            </a>
-			</div>
-			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Antpay on iOS App Store" />
-          </a>
-			</div>
 			<div>
            🔗 <a href="https://antpay.cool/">Website</a>
 			</div>
@@ -184,11 +191,6 @@ In the most part of my career, I have worked as part of a team to complete sever
             </a>
 			</div>
 			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="PBO Chat App on iOS App Store" />
-          </a>
-			</div>
-			<div>
            🔗 <a href="https://pbonetwork.com/">Website</a>
 			</div>
 		</td>
@@ -205,11 +207,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 				<a href="https://play.google.com/store/apps/details?id=com.zynotech.myQabila">
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="MyQabila on Google Play" />
             </a>
-			</div>
-			<div>
-           <a href="">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="MyQabila on iOS App Store" />
-          </a>
 			</div>
 			<div>
            🔗 <a href="http://myqabilaapp.com/">Website</a>
