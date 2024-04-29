@@ -103,8 +103,8 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="800px" src="" alt="Catholic Pro" />
-			<h3>Catholic Pro </h3>
+         <img src="" alt="Catholic Pro" />
+			<h3>Catholic Pro ⛪️🙏🎪</h3>
 			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 March 2024 - April 2024 (~ 1 month)</p>
 		</td>
@@ -123,7 +123,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="800px" src="" alt="Recipes From Nigeria" />
+         <img src="" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
 			<p>Recipes From Nigeria. I worked on this app as a Flutter Developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
