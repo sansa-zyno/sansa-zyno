@@ -117,7 +117,6 @@ In the most part of my career, I have worked as part of a team to complete sever
    			<div>
            🔗 <a href="https://ohanapro.com">Website</a>
 			</div>
-
 		</td>
 	</tr>
 	<tr>
