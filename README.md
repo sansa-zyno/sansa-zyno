@@ -123,7 +123,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img src="" alt="Recipes From Nigeria" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/baked_yam_cheese.jpg" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
 			<p>Recipes From Nigeria. I worked on this app as a Flutter Developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
