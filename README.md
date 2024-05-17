@@ -103,7 +103,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/daily_readings.jpeg" alt="Ohana" />
+         <img width="900px" height="400px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
 			<p>A Real Estate business app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 April 2024 - May 2024 (~ 1 month)</p>
@@ -115,7 +115,7 @@ In the most part of my career, I have worked as part of a team to complete sever
             </a>
 			</div>
    			<div>
-           🔗 <a href="https://ohanapro.com">Website</a>
+           🔗 <a href="https://ohanapro.com.ng">Website</a>
 			</div>
 		</td>
 	</tr>
