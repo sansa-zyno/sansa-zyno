@@ -103,7 +103,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
 			<p>A Real Estate business app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 April 2024 - May 2024 (~ 1 month)</p>
@@ -121,7 +121,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/daily_readings.jpeg" alt="Catholic Pro" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/daily_readings.jpeg" alt="Catholic Pro" />
 			<h3>Catholic Pro ⛪️🙏🎪</h3>
 			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 March 2024 - April 2024 (~ 1 month)</p>
@@ -141,7 +141,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/4.jpeg" alt="Recipes From Nigeria" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/4.jpeg" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
 			<p>Recipes From Nigeria. I worked on this app as a Flutter Developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
@@ -156,7 +156,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-        <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
+        <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
 			<h3>Antpay 💲😎💳!</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
@@ -172,7 +172,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
 			<h3>PWAN Business Owners Chat App 😉😊😜!</h3>
 			<p>A chat app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
 			<p>🗓 October 2022 - November 2022 (~ A month)</p>
@@ -190,7 +190,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
  	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
+         <img width="800px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
 			<h3>MyQabila 💪🤝👩‍👩‍👦!</h3>
 			<p>An app that connects people with health challenges to vetted medical professionals. I single handedly completed the app</p>
 			<p>🗓 August 2021 - September 2021 (~ A month)</p>
