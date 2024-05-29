@@ -17,10 +17,10 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ Android & iOS development with Native integrations <br>
    ✨ State Management: Bloc, Provider, Riverpod and GetX <br>
    ✨ Version Control System: Git, GitHub and GitLab <br>
-   ✨ Deployment on Play Store and App Store<br>
-   ✨ Google Admob Integration<br>
-   ✨ Payment Methods: Paystack, Stripe and RevenueCat(In-app purchases)<br>
-
+   ✨ Deployment on Play Store and App Store <br>
+   ✨ Google Admob Integration <br>
+   ✨ In-app purchases and Subscriptions <br>
+   ✨ Payment Gateways: Paystack, Stripe and RevenueCat <br>
 <br>
 <br>
 <div align="center">
