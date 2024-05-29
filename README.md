@@ -15,8 +15,8 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ Firebase Cloud Functions using NodeJS <br>
    ✨ Firebase Cloud Messaging using Cloud Functions <br>
    ✨ Android & iOS development with Native integrations <br>
-   ✨ State Management: Bloc, Provider & GetX <br>
-   ✨ Version Control System: Git, GitHub <br>
+   ✨ State Management: Bloc, Provider & Riverpod <br>
+   ✨ Version Control System: Git, GitHub and GitLab <br>
    ✨ Deployment on Play Store and App Store<br>
    ✨ Google Admob Integration<br>
    ✨ Payment Methods: Paystack, Stripe and RevenueCat(In-app purchases)<br>
