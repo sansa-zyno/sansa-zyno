@@ -32,7 +32,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />   
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<!--<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> --> 
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
@@ -67,7 +67,7 @@ In the most part of my career, I have worked as part of a team to complete sever
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!--<a href="https://wa.me/message/3IVXH7LJFEPTH1">
+<!--<a href="https://wa.me/message/XAAN72MUBAHYA1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>-->
 
@@ -100,6 +100,24 @@ In the most part of my career, I have worked as part of a team to complete sever
 	<tr>
 		<th>Projects</th>	
 		<th>Links</th>
+	</tr>
+	<tr>
+		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Arbnaija" />
+			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
+			<p>A sport-based arbitrage app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>🗓 May 2024 - June 2024 (~ 1 month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.arbnaija1.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Arbnaija on Google Play" />
+            </a>
+			</div>
+   			<div>
+           🔗 <a href="https://arbnaija.com">Website</a>
+			</div>
+		</td>
 	</tr>
 	<tr>
 		<td>
