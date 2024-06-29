@@ -103,7 +103,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Arbnaija" />
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
 			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
 			<p>A sport-based arbitrage app. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 May 2024 - June 2024 (~ 1 month)</p>
