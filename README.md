@@ -67,9 +67,9 @@ In the most part of my career, I have worked as part of a team to complete sever
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!--<a href="https://wa.me/message/XAAN72MUBAHYA1">
+<a href="https://wa.link/1vd0jp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>-->
+</a>
 
 <a href="https://www.fiverr.com/zynogino">
     <img src="https://img.shields.io/badge/Fiverr-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
