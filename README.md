@@ -101,7 +101,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<th>Projects</th>	
 		<th>Links</th>
 	</tr>
-	<tr>
+	<!--<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
 			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
@@ -118,8 +118,8 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://arbnaija.com">Website</a>
 			</div>
 		</td>
-	</tr>
-	<tr>
+	</tr>-->
+	<!--<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
@@ -136,13 +136,13 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://ohanapro.com.ng">Website</a>
 			</div>
 		</td>
-	</tr>
+	</tr>-->
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
 			<h3>Catholic Pro ⛪️🙏🎪</h3>
 			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as a Flutter Developer and part of a team with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
-			<p>🗓 March 2024 - April 2024 (~ 1 month)</p>
+			<p>🗓 March 2024 - May 2024 (~ 3 months)</p>
 		</td>
 		<td>
 			<div>
