@@ -101,7 +101,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<th>Projects</th>	
 		<th>Links</th>
 	</tr>
-	<!--<tr>
+	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
 			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
@@ -118,8 +118,8 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://arbnaija.com">Website</a>
 			</div>
 		</td>
-	</tr>-->
-	<!--<tr>
+	</tr>
+	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
@@ -136,7 +136,7 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://ohanapro.com.ng">Website</a>
 			</div>
 		</td>
-	</tr>-->
+	</tr>
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
