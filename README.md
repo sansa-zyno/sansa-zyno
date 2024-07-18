@@ -40,11 +40,11 @@ In the most part of my career, I have worked as part of a team to complete sever
 
 <!-- ### A Student, Flutter Developer & Writer -->
 
-#### Personal stuff:
+<!--#### Personal stuff:
 
 - 💻 The tech I'm interested in: React/Flutter/Nodejs etc.
 - ✍ Flutter Developer at [Fiverr][fiverr]
-- ✨ I'm learning Flutter, Firebase, Nodejs etc.
+- ✨ I'm learning Flutter, Firebase, Nodejs etc.-->
 
 
 ### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
