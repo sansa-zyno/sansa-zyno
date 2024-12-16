@@ -105,7 +105,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
 			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
-			<p>A sport-based arbitrage app. I worked on this app as the Mobile Application Developer(Flutter) and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>A sport-based arbitrage app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 May 2024 - June 2024 (~ 1 month)</p>
 		</td>
 		<td>
@@ -123,7 +123,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
-			<p>A Real Estate business app. I worked on this app as the Mobile Application Developer(Flutter) and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>A Real Estate business app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 April 2024 - May 2024 (~ 1 month)</p>
 		</td>
 		<td>
@@ -141,7 +141,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
 			<h3>Catholic Pro ⛪️🙏🎪</h3>
-			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as the Mobile Application Developer(Flutter) and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 March 2024 - May 2024 (~ 3 months)</p>
 		</td>
 		<td>
@@ -194,7 +194,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
 			<h3>PWAN Business Owners Chat App 😉😊😜!</h3>
-			<p>A chat app. I worked on this app as the Mobile Application Developer(Flutter) and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
+			<p>A chat app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
 			<p>🗓 October 2022 - November 2022 (~ A month)</p>
 		</td>
 		<td>
