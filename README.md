@@ -9,6 +9,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 
 #### Some things I have extensive experience with: 
 <img align="right" alt="GIF" src="code.gif" width="380" height="250" />
+<br>
    ✨ Flutter UI/UX <br>
    ✨ Flutter Backend with Firebase <br>
    ✨ Flutter RESTful API Integration <br>
