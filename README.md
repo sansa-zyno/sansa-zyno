@@ -219,15 +219,13 @@ In the most part of my career, I have worked as part of a team to complete sever
 			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.pbo.www">
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="PBO Chat App on Google Play" />
-            </a>
+                                </a>
 			</div>
 			<br>
-			<div>
-           🔗 <a href="https://pbonetwork.com/">Website</a>
-			</div>
+			<div>🔗<a href="https://pbonetwork.com/">Website</a></div>
 		</td>
 	</tr> -->
- 	<tr>
+ 	<!--<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
 			<h3>MyQabila 💪🤝👩‍👩‍👦!</h3>
@@ -238,14 +236,12 @@ In the most part of my career, I have worked as part of a team to complete sever
 			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.zynotech.myQabila">
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="MyQabila on Google Play" />
-            </a>
+                               </a>
 			</div>
 			<br>
-			<div>
-           🔗 <a href="http://myqabilaapp.com/">Website</a>
-			</div>
+			<div>🔗<a href="http://myqabilaapp.com/">Website</a></div>
 		</td>
-	</tr>
+	</tr>-->
 	</tbody>
 </table>
 
