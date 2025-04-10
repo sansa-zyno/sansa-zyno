@@ -180,7 +180,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/2.jpeg" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
-			<p>Recipes From Nigeria. I worked on this app as a Flutter Developer</p>
+			<p>Recipes From Nigeria. I completed this app the solo Flutter developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
 		</td>
 		<td>
@@ -194,7 +194,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	<tr>
 		<td>
         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
-			<h3>Antpay 💲😎💳!</h3>
+			<h3>Antpay 💲😎💳!(Suspended)</h3>
 			<p>A Fintech app. I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
 		</td>
