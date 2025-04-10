@@ -180,7 +180,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/2.jpeg" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
-			<p>Recipes From Nigeria. I completed this app the solo Flutter developer</p>
+			<p>Recipes From Nigeria. I completed this app as the solo Flutter developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
 		</td>
 		<td>
