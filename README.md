@@ -106,7 +106,7 @@ In the most part of my career, I have worked as part of a team to complete sever
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo-3.jpg" alt="Pboplusrealtors" />
 			<h3>Pboplusrealtors 🏡💐🏠</h3>
 			<p>A real estate app that infuse network marketing business model into real estate. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
-			<p>🗓 Feb 2025 - March 2025 (~ 1 month)</p>
+			<p>🗓 Feb 2025 - March 2025 (~ 2 months)</p>
 		</td>
 		<td>
 			<div>
