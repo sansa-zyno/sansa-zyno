@@ -103,6 +103,24 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Pboplusrealtors" />
+			<h3>Pboplusrealtors 🏡💐🏠</h3>
+			<p>A real estate app that infuse network marketing business model into real estate. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>🗓 Feb 2025 - March 2025 (~ 1 month)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.pboplusrealtors.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Pboplusrealtors on Google Play" />
+            </a>
+			</div>
+   			<div>
+           🔗 <a href="https://arbnaija.com">Website</a>
+			</div>
+		</td>
+	</tr> 
+	<!-- <tr>
+		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
 			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
 			<p>A sport-based arbitrage app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
@@ -118,8 +136,8 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://arbnaija.com">Website</a>
 			</div>
 		</td>
-	</tr>
-	<tr>
+	</tr> -->
+	<!-- <tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
 			<h3>Ohana 🏡📊🏠 </h3>
@@ -136,7 +154,7 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://ohanapro.com.ng">Website</a>
 			</div>
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
@@ -190,7 +208,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 			</div>
 		</td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
 			<h3>PWAN Business Owners Chat App 😉😊😜!</h3>
@@ -208,7 +226,7 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://pbonetwork.com/">Website</a>
 			</div>
 		</td>
-	</tr>
+	</tr> -->
  	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
