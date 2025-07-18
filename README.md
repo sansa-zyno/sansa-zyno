@@ -114,11 +114,13 @@ In the most part of my career, I have worked as part of a team to complete sever
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Pboplusrealtors on Google Play" />
             </a>
 			</div>
+			<br>
 			<div>
-           <a href="https://apps.apple.com/us/app/pbo-realtors/id6745736135">
+           <a href="https://apps.apple.com/app/id6745736135">
                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Pboplusrealtors on iOS App Store" />
           </a>
 			</div>
+			<br>
    			<div>
            🔗 <a href="https://pboplusrealtors.com">Website</a>
 			</div>
