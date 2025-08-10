@@ -146,7 +146,7 @@ In the most part of my career, I have worked as part of a team to complete sever
           </a>
 			</div>
 		</td>
-	</tr> -->
+	</tr>-->
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/2.jpeg" alt="Recipes From Nigeria" />
