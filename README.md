@@ -134,12 +134,12 @@ In the most part of my career, I have worked as part of a team to complete sever
 			<p>🗓 March 2024 - May 2024 (~ 3 months)</p>
 		</td>
 		<td>
-			<!--<div>
+			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.catholicpro1.www">
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Catholic Pro on Google Play" />
             </a>
 			</div>
-			<br>-->
+			<br>
 			<div>
            <a href="https://apps.apple.com/app/id6499372079">
                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Catholic Pro on iOS App Store" />
@@ -171,7 +171,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		</td>
 		<td>
 			<div>
-           🔗 <a href="https://drive.google.com/drive/folders/1DkfacYDXQHg0xvJmboh4VgB_S0M3LP_1?usp=share_link">Google Drive</a>
+           🔗 <a href="https://drive.google.com/drive/folders/1DkfacYDXQHg0xvJmboh4VgB_S0M3LP_1?usp=share_link">link</a>
 			</div>
 			<br>
 			<div>
