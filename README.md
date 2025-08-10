@@ -128,42 +128,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr> 
 	<!-- <tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/arbnaija.jpg" alt="Arbnaija" />
-			<h3>Arbnaija🤾‍♀️⚽️⛹️‍♂️</h3>
-			<p>A sport-based arbitrage app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
-			<p>🗓 May 2024 - June 2024 (~ 1 month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.arbnaija1.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Arbnaija on Google Play" />
-            </a>
-			</div>
-   			<div>
-           🔗 <a href="https://arbnaija.com">Website</a>
-			</div>
-		</td>
-	</tr> -->
-	<!-- <tr>
-		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ohana-banner2.png" alt="Ohana" />
-			<h3>Ohana 🏡📊🏠 </h3>
-			<p>A Real Estate business app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
-			<p>🗓 April 2024 - May 2024 (~ 1 month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.ohana.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Ohana on Google Play" />
-            </a>
-			</div>
-   			<div>
-           🔗 <a href="https://ohanapro.com.ng">Website</a>
-			</div>
-		</td>
-	</tr> -->
-	<tr>
-		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
 			<h3>Catholic Pro ⛪️🙏🎪</h3>
 			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
@@ -182,7 +146,7 @@ In the most part of my career, I have worked as part of a team to complete sever
           </a>
 			</div>
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/2.jpeg" alt="Recipes From Nigeria" />
@@ -215,40 +179,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 			</div>
 		</td>
 	</tr>
-	<!-- <tr>
-		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo2.jpeg" alt="PWAN Business Owners 😉😊😜!" />
-			<h3>PWAN Business Owners Chat App 😉😊😜!</h3>
-			<p>A chat app. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a></p>
-			<p>🗓 October 2022 - November 2022 (~ A month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.pbo.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="PBO Chat App on Google Play" />
-                                </a>
-			</div>
-			<br>
-			<div>🔗<a href="https://pbonetwork.com/">Website</a></div>
-		</td>
-	</tr> -->
- 	<!--<tr>
-		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/shutterstock_qabila.jpg" alt="MyQabila 💪🤝👩‍👩‍👦!" />
-			<h3>MyQabila 💪🤝👩‍👩‍👦!</h3>
-			<p>An app that connects people with health challenges to vetted medical professionals. I single handedly completed the app</p>
-			<p>🗓 August 2021 - September 2021 (~ A month)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.zynotech.myQabila">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="MyQabila on Google Play" />
-                               </a>
-			</div>
-			<br>
-			<div>🔗<a href="http://myqabilaapp.com/">Website</a></div>
-		</td>
-	</tr>-->
 	</tbody>
 </table>
 
