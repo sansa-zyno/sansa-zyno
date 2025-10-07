@@ -145,7 +145,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ecomm.png" alt="Ecommerce App by Zynogino" />
 			<h3>Zcomm 🧥💻🎒</h3>
-			<p>Zcomm. I completed this app as a solo Flutter developer</p>
+			<p>I completed this app as a solo Flutter developer</p>
 			<p>🗓 January 2025 - March 2025 (~ 3 months)</p>
 		</td>
 		<td>
@@ -158,7 +158,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/bolt_clone.png" alt="Ride Sharing App by Zynogino" />
 			<h3>ZBolt 🧥💻🎒</h3>
-			<p>ZBolt. I completed this app as a solo Flutter developer</p>
+			<p>I completed this app as a solo Flutter developer</p>
 			<p>🗓 January 2024 - February 2024 (~ 2 months)</p>
 		</td>
 		<td>
