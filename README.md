@@ -171,7 +171,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		</td>
 		<td>
 			<div>
-           🔗 <a href="https://drive.google.com/file/d/1fAjozaKHzk0t3UxwQxzkrmaDSQ_DL3XN/view?usp=share_link">Video link</a>
+           🔗 <a href="https://drive.google.com/file/d/1fAjozaKHzk0t3UxwQxzkrmaDSQ_DL3XN/view?usp=share_link">link</a>
 			</div>
 			<br>
 			<!--<div>
