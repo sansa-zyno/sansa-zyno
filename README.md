@@ -126,30 +126,9 @@ In the most part of my career, I have worked as part of a team to complete sever
 			</div>
 		</td>
 	</tr> 
-	<!-- <tr>
-		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/laud.jpeg" alt="Catholic Pro" />
-			<h3>Catholic Pro ⛪️🙏🎪</h3>
-			<p>A Catholic app that consists of prayers, calendar and events. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
-			<p>🗓 March 2024 - May 2024 (~ 3 months)</p>
-		</td>
-		<td>
-			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.catholicpro1.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Catholic Pro on Google Play" />
-            </a>
-			</div>
-			<br>
-			<div>
-           <a href="https://apps.apple.com/app/id6499372079">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Catholic Pro on iOS App Store" />
-          </a>
-			</div>
-		</td>
-	</tr>-->
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/2.jpeg" alt="Recipes From Nigeria" />
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/recipe.png" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
 			<p>Recipes From Nigeria. I completed this app as a solo Flutter developer</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
