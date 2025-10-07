@@ -165,13 +165,26 @@ In the most part of my career, I have worked as part of a team to complete sever
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ecomm.png" alt="Ecommerce App by Zynogino" />
-			<h3>Ecommerce App by Zynogino 🧥💻🎒!</h3>
+			<h3>Ecommerce App by Zynogino 🧥💻🎒</h3>
 			<p>Ecommerce App by Zynogino. I completed this app as a solo Flutter developer</p>
 			<p>🗓 January 2025 - March 2025 (~ 3 months)</p>
 		</td>
 		<td>
 			<div>
            🔗 <a href="https://drive.google.com/file/d/16Wifkq7bvWYrvIajwdH7r-qOywIGC00v/view?usp=share_link">video</a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/bolt_clone.png" alt="Ride Sharing App by Zynogino" />
+			<h3>="Ride Sharing App by Zynogino 🧥💻🎒</h3>
+			<p>="Ride Sharing App by Zynogino. I completed this app as a solo Flutter developer</p>
+			<p>🗓 January 2024 - February 2024 (~ 2 months)</p>
+		</td>
+		<td>
+			<div>
+           🔗 <a href="https://drive.google.com/file/d/1uprRhg5Nl5Au7pz8xkIHXKm4BA5BedM1/view?usp=share_link">video</a>
 			</div>
 		</td>
 	</tr>
