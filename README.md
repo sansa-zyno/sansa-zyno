@@ -178,8 +178,8 @@ In the most part of my career, I have worked as part of a team to complete sever
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/bolt_clone.png" alt="Ride Sharing App by Zynogino" />
-			<h3>="Ride Sharing App by Zynogino 🧥💻🎒</h3>
-			<p>="Ride Sharing App by Zynogino. I completed this app as a solo Flutter developer</p>
+			<h3>=Ride Sharing App by Zynogino 🧥💻🎒</h3>
+			<p>=Ride Sharing App by Zynogino. I completed this app as a solo Flutter developer</p>
 			<p>🗓 January 2024 - February 2024 (~ 2 months)</p>
 		</td>
 		<td>
