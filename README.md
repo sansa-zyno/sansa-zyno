@@ -125,7 +125,20 @@ In the most part of my career, I have worked as part of a team to complete sever
            🔗 <a href="https://pboplusrealtors.com">Website</a>
 			</div>
 		</td>
-	</tr> 
+	</tr>
+	<tr>
+		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ecomm.png" alt="Ecommerce App by Zynogino" />
+			<h3>Zcomm 🧥💻🎒</h3>
+			<p>I completed this app as a solo Flutter developer</p>
+			<p>🗓 January 2025 - March 2025 (~ 3 months)</p>
+		</td>
+		<td>
+			<div>
+           🔗 <a href="https://drive.google.com/file/d/16Wifkq7bvWYrvIajwdH7r-qOywIGC00v/view?usp=share_link">video</a>
+			</div>
+		</td>
+	</tr>
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/recipe.png" alt="Recipes From Nigeria" />
@@ -138,19 +151,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 				<a href="https://play.google.com/store/apps/details?id=com.exolvemedia.naijarecipes">
                 <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Recipes From Nigeria on Google Play" />
             </a>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/ecomm.png" alt="Ecommerce App by Zynogino" />
-			<h3>Zcomm 🧥💻🎒</h3>
-			<p>I completed this app as a solo Flutter developer</p>
-			<p>🗓 January 2025 - March 2025 (~ 3 months)</p>
-		</td>
-		<td>
-			<div>
-           🔗 <a href="https://drive.google.com/file/d/16Wifkq7bvWYrvIajwdH7r-qOywIGC00v/view?usp=share_link">video</a>
 			</div>
 		</td>
 	</tr>
