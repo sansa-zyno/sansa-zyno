@@ -131,7 +131,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo-3.jpg" alt="Pboplusrealtors" />
 			<h3>Pboplusrealtors 🏡💐🏠</h3>
-			<p>A real estate app that infuse network marketing business model into real estate.</p> 
+			<p>A real estate app that infuse network marketing business model into real estate. The app impacts people and families by empowering and giving them a source of 			earning legitimate income by just doing real estate business.</p> 
 			<p>I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with 
 			<a href="https://paucha.com.ng/">Paucha Technology Company.</a> </p>
 			<p>🗓 Feb 2025 - March 2025 (~ 2 months)</p>
@@ -171,7 +171,8 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/recipes.jpg" alt="Recipes From Nigeria" />
 			<h3>Recipes From Nigeria 🍛😜🥪!</h3>
-			<p>Recipes From Nigeria. I completed this app as a solo Flutter developer</p>
+			<p>A Recipes app that consists of different varieties of dishes in Nigeria. It is completely operable offline.</p> 
+			<p>I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers and QA Testers.</p>
 			<p>🗓 February 2024 - April 2024 (~ 3 months)</p>
 		</td>
 		<td>
@@ -199,7 +200,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
 			<h3>Antpay 💲😎💳!</h3>
-			<p>A Fintech app.</p> 
+			<p>A social payment platform where users seamlessly transact through messaging by sending stickers to each other.</p> 
 			<p>I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
 			<p>🗓 February 2023 - April 2023 (~ 3 months)</p>
 		</td>
