@@ -104,20 +104,45 @@ In the most part of my career, I have worked as part of a team to complete sever
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo-3.jpg" alt="Pboplusrealtors" />
+			<h3>Labonte languages 🇫🇷👩‍🎓📚</h3>
+			<p>An all-in-one French-learning app that combines AI-powered lessons, live tutors, and smart progress tracking to help learners speak, read, and write French 				confidently. With personalized learning, real conversational practice, gamified challenges, and certificates, it offers a modern and enjoyable way to master 				French or prepare for TEF Canada. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers and QA Testers</p>
+			<p>🗓 March 2025 - Nov 2025 (~ 9 months)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.labonte.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Labonte languages on 					Google Play" />
+            </a>
+			</div>
+			<br>
+			<div>
+           <a href="https://apps.apple.com/app/id6755325259">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Labonte languages on iOS 				App Store" />
+          </a>
+			</div>
+			<br>
+   			<div>
+           🔗 <a href="https://www.labontelanguages.com.ng">Website</a>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/pbo-3.jpg" alt="Pboplusrealtors" />
 			<h3>Pboplusrealtors 🏡💐🏠</h3>
-			<p>A real estate app that infuse network marketing business model into real estate. I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
+			<p>A real estate app that infuse network marketing business model into real estate. I worked on this app as the Mobile Application Developer(Flutter), and as part 			of a team of UI/UX designers, QA Testers and Backend developers with <a href="https://paucha.com.ng/">Paucha Technology Company</a> </p>
 			<p>🗓 Feb 2025 - March 2025 (~ 2 months)</p>
 		</td>
 		<td>
 			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.pboplusrealtors.www">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Pboplusrealtors on Google Play" />
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Pboplusrealtors on Google 				Play" />
             </a>
 			</div>
 			<br>
 			<div>
            <a href="https://apps.apple.com/app/id6745736135">
-               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Pboplusrealtors on iOS App Store" />
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Pboplusrealtors on iOS App 				Store" />
           </a>
 			</div>
 			<br>
@@ -149,7 +174,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<td>
 			<div>
 				<a href="https://play.google.com/store/apps/details?id=com.exolvemedia.naijarecipes">
-                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Recipes From Nigeria on Google Play" />
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Recipes From Nigeria on 				Google Play" />
             </a>
 			</div>
 		</td>
