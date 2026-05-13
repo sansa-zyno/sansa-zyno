@@ -101,6 +101,33 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<th>Projects</th>	
 		<th>Links</th>
 	</tr>
+
+	<tr>
+		<td>
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/labonte.png" alt="Labonte languages" />
+			<h3>Aegis Vitals 👨‍⚕️🩺🫀</h3>
+			<p>A personal wellness and health data management platform designed to help you track lifestyle habits, organize health information, and stay 								connected with your care providers in one secure and privacy-focused environment.</p>
+			<p>I worked on this app as a Flutter Mobile Application Developer alongside two other Flutter developers, collaborating with a team of UI/UX designers and QA 				testers.</p>
+			<p>🗓 Dec 2025 - May 2026 (~ 6 months)</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.aegisVitals.www">
+                <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Aegis Vitals on 						Google Play" />
+            </a>
+			</div>
+			<br>
+			<div>
+           <a href="https://apps.apple.com/au/app/aegis-vitals/id6761141345">
+               <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Aegis Vitals on iOS 				App Store" />
+          </a>
+			</div>
+			<br>
+   			<div>
+           🔗 <a href="https://aegisvitals.ai">Website</a>
+			</div>
+		</td>
+	</tr>
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/labonte.png" alt="Labonte languages" />
