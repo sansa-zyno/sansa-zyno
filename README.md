@@ -101,7 +101,6 @@ In the most part of my career, I have worked as part of a team to complete sever
 		<th>Projects</th>	
 		<th>Links</th>
 	</tr>
-
 	<tr>
 		<td>
          <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/labonte.png" alt="Labonte languages" />
