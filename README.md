@@ -21,6 +21,7 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ Google Admob Integration <br>
    ✨ In-app purchases and Subscriptions <br>
    ✨ Payment Gateways: Paystack, Stripe and RevenueCat <br>
+   ✨ Tools & AI Assistants: VS Code, Android Studio, Xcode, ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, Antigravity <br>
 <br>
 <br>
 <div align="center">
