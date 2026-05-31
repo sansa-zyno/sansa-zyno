@@ -227,7 +227,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-        <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.PNG" alt="Antpay 💲😎💳!" />
+        <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/antpay.png" alt="Antpay 💲😎💳!" />
 			<h3>Antpay 💲😎💳!</h3>
 			<p>A social payment platform where users seamlessly transact through messaging by sending stickers to each other.</p> 
 			<p>I worked on this app as a Flutter Developer and part of a team of UI/UX and backend developers </p>
