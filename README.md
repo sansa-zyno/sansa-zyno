@@ -104,7 +104,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/aegisvitals2.png" alt="Labonte languages" />
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/aegisvitals2.png" alt="Aegis Vitals" />
 			<h3>Aegis Vitals 👨‍⚕️🩺🫀</h3>
 			<p>A personal wellness and health data management platform designed to help you track lifestyle habits, organize health information, and stay 								connected with your care providers in one secure and privacy-focused environment.</p>
 			<p>I worked on this app as a Flutter Mobile Application Developer alongside two other Flutter developers, collaborating with a team of UI/UX designers and QA 				testers.</p>
