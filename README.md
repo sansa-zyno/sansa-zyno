@@ -130,7 +130,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 	</tr>
 	<tr>
 		<td>
-         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/labontelang.png" alt="Labonte languages" />
+         <img width="900px" src="https://github.com/sansa-zyno/sansa-zyno/blob/main/assets/labonte.png" alt="Labonte languages" />
 			<h3>Labonte languages 🇫🇷👩‍🎓📚</h3>
 			<p>An all-in-one French-learning app that combines AI-powered lessons, live tutors, and smart progress tracking to help learners speak, read, and write French 				confidently. With personalized learning, real conversational practice, gamified challenges, and certificates, it offers a modern and enjoyable way to master 				French or prepare for TEF Canada.</p>
 			<p>I worked on this app as the Mobile Application Developer(Flutter), and as part of a team of UI/UX designers and QA Testers.</p>
