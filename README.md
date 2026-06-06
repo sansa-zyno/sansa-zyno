@@ -1,6 +1,6 @@
 ### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> a highly skilled Mobile Application Developer with a 5-year track record of excellence in Flutter (Android & iOS) development. 
 
-In the most part of my career, I have worked as part of a team to complete several projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their store links, <strong>in my extensive portfolio👇</strong>.
+In the most part of my career, I have worked as part of a team to complete several projects, from concept to development and deployment. My work is a testament to my commitment to delivering top-notch applications that resonate with users and meet the highest standards of quality. You can explore some of the remarkable apps I've contributed to, along with their store links, <strong><em>in my extensive portfolio👇</em></strong>.
 
 #### Education & Achievements: <br>
 👨‍💻 BS. Computer Engineering <br>
