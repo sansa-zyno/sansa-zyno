@@ -23,6 +23,8 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ Payment Gateways: Paystack, Stripe and RevenueCat <br>
    ✨ Tools & AI Assistants: VS Code, Android Studio, Xcode, ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, Antigravity <br>
    
+   <br>
+   
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
