@@ -22,8 +22,7 @@ In the most part of my career, I have worked as part of a team to complete sever
    ✨ In-app purchases and Subscriptions <br>
    ✨ Payment Gateways: Paystack, Stripe and RevenueCat <br>
    ✨ Tools & AI Assistants: VS Code, Android Studio, Xcode, ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, Antigravity <br>
-<br>
-<br>
+   
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -50,11 +49,10 @@ In the most part of my career, I have worked as part of a team to complete sever
 
 <!--### I am also helping a lot of Flutter Developers in their development journey. So, if you need any help, let me know on any of the provided socials and if I helped you in any way, please consider buying me a coffee here. Thanks
 <br>-->
-
 <div align="center">
     <!--<a href="https://www.buymeacoffee.com/zynogino" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-<br>
 <br>-->
+	
 <p align="center">Let's connect!</p>
 <a href="https://www.twitter.com/zynogino/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -88,10 +86,7 @@ In the most part of my career, I have worked as part of a team to complete sever
 </a>
 </div>
 
-
 <br>
-
-
 
 ## Client Projects And Apps on The Stores
 <table>
